@@ -36,13 +36,8 @@ You just need a modern web browser to view this project. There are no other depe
 
 1.  Clone the repository:
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/ansh1325/music-app.git
     ```
-2.  Navigate to the project directory:
-    ```bash
-    cd [your-project-folder]
-    ```
-3.  Open the `index.html` file in your preferred web browser.
 
 That's it! The music player will load and you can start exploring the playlists and playing songs.
 
@@ -52,7 +47,6 @@ That's it! The music player will load and you can start exploring the playlists 
 
 I've created a video that walks you through the features and functionality of this music player. You can watch the demo here:
 
-[Place your video link here]
 
 ---
 
