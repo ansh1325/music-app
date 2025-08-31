@@ -1,6 +1,6 @@
 # My Music Player 🎧
 
-<a href="">Video of project on linkedin</a>
+<a href="https://www.linkedin.com/posts/anshprogrammer_excited-to-share-a-project-ive-poured-a-activity-7367881189682003968-coWu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlrQCgBJlIdPj0s2Rx7FxIB11A0tKoryNs">Video of project on linkedin</a>
 This is a sleek and modern music player app built with HTML, CSS, and JavaScript. It provides a simple, yet elegant interface for browsing and playing your favorite tunes. The design is inspired by popular streaming services, offering a clean layout and a great user experience.
 
 
@@ -46,7 +46,7 @@ That's it! The music player will load and you can start exploring the playlists 
 ## 📹 Project Demo Video
 
 I've created a video that walks you through the features and functionality of this music player. You can watch the demo here:
-
+<a href="https://www.linkedin.com/posts/anshprogrammer_excited-to-share-a-project-ive-poured-a-activity-7367881189682003968-coWu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlrQCgBJlIdPj0s2Rx7FxIB11A0tKoryNs">Video of project on linkedin</a>
 
 ---
 
